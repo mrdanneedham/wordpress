@@ -3,6 +3,9 @@ https://pluginrepublic.com/how-to-filter-custom-post-type-by-meta-field/
 // Rest
 https://webdesign.tutsplus.com/tutorials/how-to-use-the-wordpress-rest-api-a-practical-tutorial--cms-33566
 
+// Shopping Cart
+https://laptrinhx.com/php-shopping-cart-tutorial-using-cookies-bootstrap-and-jquery-3625330068/
+
 // filter images wordpress images
 add_filter( 'ajax_query_attachments_args', 'wpsnippet_show_current_user_attachments' );
 function wpsnippet_show_current_user_attachments( $query ) {
